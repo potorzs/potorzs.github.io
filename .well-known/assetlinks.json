@@ -5,8 +5,8 @@
       "namespace": "android_app",
       "package_name": "app.pzstm.carcompanion",
       "sha256_cert_fingerprints": [
-        "PLAY_APP_SIGNING_SHA256_IDE",
-        "UPLOAD_KEY_SHA256_IDE"
+        "30:24:B6:5A:8D:07:D7:27:48:84:17:3B:A1:85:EC:64:9E:4F:F5:73:09:E0:9B:4A:5B:0D:08:06:43:ED:BC:8C",
+        "EB:D8:46:D8:C5:53:30:7F:B8:7E:D3:C5:C7:31:89:1B:9B:0D:BA:FE:8F:E5:12:BB:A1:F1:B5:32:58:B5:44:F4"
       ]
     }
   }
